@@ -7,23 +7,23 @@ publisher:
   url: 'http://acmartialarts.co.uk'
   favicon: null
 keywords:
-  - matthew
-  - training
-  - club
-  - instructor
-  - ckd
-  - epee
-  - kwang-do
-  - belt
   - martial
-  - choi
-description: 'Mr. Matthew Connolly, 1st Degree Black Belt, Assistant instructor of Choi Kwang-Do Martial Arts International. Matthew began training in Choi Kwang-Do in 2004, having spent six months at an off shoot school, then training for a short time under Master Wright before taking time out for his studies at university, returning in (2010) to train under Mr. Dean Stuart Ali.'
+  - hendon
+  - student
+  - instructors
+  - arts
+  - school
+  - defence
+  - wright
+  - ha8
+  - roseberry
+description: "Hendon CKD opened in February 2003 under the ownership of Master Jason Wright, 6th Degree Black Belt Chief Instructor of Choi Kwang Do Martial Art International. Since it's opening, the school has always focused solely on it's students developing their Health, Discipline, Social, Mental and Physical capabilities in a co-operative, non-competitive, stress free environment."
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://acmartialarts.co.uk/mr-connolly/'
+isBasedOnUrl: 'http://acmartialarts.co.uk/hmaa-about/'
 title: Edgware Martial Arts Academy
-datePublished: '2016-01-20T10:50:44.635Z'
-dateModified: '2016-01-20T10:49:14.892Z'
+datePublished: '2016-01-20T10:50:44.734Z'
+dateModified: '2016-01-20T10:49:20.227Z'
 inFeed: true
 hasPage: false
 inNav: false
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Edgware Martial Arts Academy</h1><p>Mr&amp;period; Matthew Connolly&amp;comma; 1st Degree Black Belt&amp;comma; Assistant instructor of Choi Kwang-Do Martial Arts International&amp;period; Matthew began training in Choi Kwang-Do in 2004&amp;comma; having spent six months at an off shoot school&amp;comma; then training for a short time under Master Wright before taking time out for his studies at university&amp;comma; returning in &amp;lpar;2010&amp;rpar; to train under Mr&amp;period; Dean Stuart Ali&amp;period;</p><img src="http://acmartialarts.co.uk/wp-content/uploads/2012/10/cropped-CKD-Official-Logo.jpg" /></article>
+<article style=""><h1>Edgware Martial Arts Academy</h1><p>Hendon CKD opened in February 2003 under the ownership of Master Jason Wright&amp;comma; 6th Degree Black Belt Chief Instructor of Choi Kwang Do Martial Art International&amp;period; Since it's opening&amp;comma; the school has always focused solely on it's students developing their Health&amp;comma; Discipline&amp;comma; Social&amp;comma; Mental and Physical capabilities in a co-operative&amp;comma; non-competitive&amp;comma; stress free environment&amp;period;</p><img src="http://acmartialarts.co.uk/wp-content/uploads/2012/10/cropped-CKD-Official-Logo.jpg" /></article>
