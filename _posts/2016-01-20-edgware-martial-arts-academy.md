@@ -7,23 +7,23 @@ publisher:
   url: 'http://acmartialarts.co.uk'
   favicon: null
 keywords:
-  - 20pm
-  - classes
-  - 07912
-  - edgware
-  - teenagers
-  - ha8
-  - acmartialarts
-  - roseberry
-  - 8jp
-  - admin
-description: 'Our class schedule runs as follows: Class venue: Broadfields Primary School Roseberry Drive, Edgware HA8 8JP Thursday evenings: 6:20pm - 7:20pm: Children (ages 4 - 8 years) 7:20pm - 8:20pm: Older Children (8 - 12 years), Teenagers (13 - 16 years) and Adults (17 years +) 8:20pm - 9:20pm: Teenagers (13 - 16 years) and Adults (17 years +) Saturday Mornings: 11:00am - 12:00pm: Open to all students NB Black Belt students are encouraged to attend all classes or as many classes as they can.'
+  - matthew
+  - training
+  - club
+  - instructor
+  - ckd
+  - epee
+  - kwang-do
+  - belt
+  - martial
+  - choi
+description: 'Mr. Matthew Connolly, 1st Degree Black Belt, Assistant instructor of Choi Kwang-Do Martial Arts International. Matthew began training in Choi Kwang-Do in 2004, having spent six months at an off shoot school, then training for a short time under Master Wright before taking time out for his studies at university, returning in (2010) to train under Mr. Dean Stuart Ali.'
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://acmartialarts.co.uk/class-schedule/'
+isBasedOnUrl: 'http://acmartialarts.co.uk/mr-connolly/'
 title: Edgware Martial Arts Academy
-datePublished: '2016-01-20T10:50:44.508Z'
-dateModified: '2016-01-20T10:49:12.127Z'
+datePublished: '2016-01-20T10:50:44.635Z'
+dateModified: '2016-01-20T10:49:14.892Z'
 inFeed: true
 hasPage: false
 inNav: false
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Edgware Martial Arts Academy</h1><p>Our class schedule runs as follows&amp;colon; Class venue&amp;colon; Broadfields Primary School Roseberry Drive&amp;comma; Edgware HA8 8JP Thursday evenings&amp;colon; 6&amp;colon;20pm - 7&amp;colon;20pm&amp;colon; Children &amp;lpar;ages 4 - 8 years&amp;rpar; 7&amp;colon;20pm - 8&amp;colon;20pm&amp;colon; Older Children &amp;lpar;8 - 12 years&amp;rpar;&amp;comma; Teenagers &amp;lpar;13 - 16 years&amp;rpar; and Adults &amp;lpar;17 years &amp;plus;&amp;rpar; 8&amp;colon;20pm - 9&amp;colon;20pm&amp;colon; Teenagers &amp;lpar;13 - 16 years&amp;rpar; and Adults &amp;lpar;17 years &amp;plus;&amp;rpar; Saturday Mornings&amp;colon; 11&amp;colon;00am - 12&amp;colon;00pm&amp;colon; Open to all students NB Black Belt students are encouraged to attend all classes or as many classes as they can&amp;period;</p><img src="http://acmartialarts.co.uk/wp-content/uploads/2013/01/Broadfields-Primary-School-141.jpg" /></article>
+<article style=""><h1>Edgware Martial Arts Academy</h1><p>Mr&amp;period; Matthew Connolly&amp;comma; 1st Degree Black Belt&amp;comma; Assistant instructor of Choi Kwang-Do Martial Arts International&amp;period; Matthew began training in Choi Kwang-Do in 2004&amp;comma; having spent six months at an off shoot school&amp;comma; then training for a short time under Master Wright before taking time out for his studies at university&amp;comma; returning in &amp;lpar;2010&amp;rpar; to train under Mr&amp;period; Dean Stuart Ali&amp;period;</p><img src="http://acmartialarts.co.uk/wp-content/uploads/2012/10/cropped-CKD-Official-Logo.jpg" /></article>
