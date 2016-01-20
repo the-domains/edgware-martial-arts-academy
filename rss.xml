@@ -8,6 +8,13 @@
         <atom:link href="https://thegrid.ai/edgware-martial-arts-academy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Edgware Martial Arts Academy]]></title>
+            <description><![CDATA[<article><h1>Edgware Martial Arts Academy</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f2a7907fdddcdca441b2fe6294171d232b15963.jpg"></article>]]></description>
+            <link>http://acmartialarts.co.uk/philosophy/</link>
+            <guid isPermaLink="false">f26eba54-f859-4630-87bb-e05639ffa8a5</guid>
+            <pubDate>Wed, 20 Jan 2016 10:50:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Edgware Martial Arts Academy]]></title>
             <description><![CDATA[<article><h1>Edgware Martial Arts Academy</h1><p>The belt system within Choi Kwang Do is designed to assess thoroughly the progress of each students performance. Ensuring that movements are precise and fluid, to work in harmony with the body, with emphasis mainly on the proficiency and ability that students attain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e85118d4ff63316e65f4201a929d0e81ec7ed81a.jpg"></article>]]></description>
             <link>http://acmartialarts.co.uk/belts/</link>
             <guid isPermaLink="false">ab76ad68-53bb-4c3c-bb72-8aed5c505314</guid>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Edgware Martial Arts Academy</h1><p>If you would like to contact us for a free trial, call 07912 617 050, email admin@acmartialarts.co.uk or fill out the contact form below and someone from our team will be in touch shortly. Please enter your phone number for an immediate response</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f2a7907fdddcdca441b2fe6294171d232b15963.jpg"></article>]]></description>
             <link>http://acmartialarts.co.uk/contact-us/</link>
             <guid isPermaLink="false">5baaff07-aa64-4001-a8e0-5cd302d3a685</guid>
-            <pubDate>Wed, 20 Jan 2016 10:50:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Edgware Martial Arts Academy]]></title>
-            <description><![CDATA[<article><h1>Edgware Martial Arts Academy</h1><p>Q: What style of martial art will I learn? A: You will learn Choi Kwang-Do (CKD), a revolutionary martial art and exercise programme developed by Grandmaster Kwang Jo Choi. The martial art is founded on the principle that self defence techniques should generate maximum force, be practical and easy to learn, enhance your health as you practice, as well as develop physical and mental conditioning.</p></article>]]></description>
-            <link>http://acmartialarts.co.uk/questions-and-answers/</link>
-            <guid isPermaLink="false">6b32a2da-3ec3-4aae-a3a8-468ff2a36bb3</guid>
             <pubDate>Wed, 20 Jan 2016 10:50:44 GMT</pubDate>
         </item>
     </channel>
