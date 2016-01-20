@@ -1,29 +1,36 @@
 ---
 author: []
-related: []
+related:
+  - score: 0.6047921777
+    description: "Students at the Open University are going to have their progress monitored by software to spot if they need any extra support. The scheme, developed by the OU, has been designed to observe students' paths through courses and engagement with online learning modules."
+    title: "OU students' progress to be monitored by software - BBC News"
+    url: 'http://www.bbc.co.uk/news/technology-33675471'
+    thumbnail_height: 576
+    thumbnail_url: 'http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1D9E/production/_84528570_openuniversity-4.jpg'
+    thumbnail_width: 1024
 publisher:
   name: Acmartialarts
   domain: acmartialarts.co.uk
   url: 'http://acmartialarts.co.uk'
   favicon: null
 keywords:
-  - 30pm
-  - edgware
-  - bus
-  - hendon
-  - meadfield
-  - broadfields
-  - parking
-  - walk
-  - school
-  - minutes
-description: 'Hendon Methodist Church, The Burroughs, Hendon, London NW4 4EH On site parking available for 6 - 8 cars if parked strategically. Car Park and Street Parking located on Egerton Gardens.'
+  - tuition
+  - instructors
+  - students
+  - belt
+  - receive
+  - martial
+  - discount
+  - joining
+  - introductory
+  - classes
+description: 'At Hendon Martial Arts Academy, we offer an Introductory Programme to Prospective Students who are interested in joining the School.'
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://acmartialarts.co.uk/hmaa-where/'
+isBasedOnUrl: 'http://acmartialarts.co.uk/trials-promotions/'
 title: Edgware Martial Arts Academy
-datePublished: '2016-01-20T10:50:44.392Z'
-dateModified: '2016-01-20T10:49:09.095Z'
+datePublished: '2016-01-20T10:50:44.426Z'
+dateModified: '2016-01-20T10:49:07.846Z'
 inFeed: true
 hasPage: false
 inNav: false
@@ -35,4 +42,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Edgware Martial Arts Academy</h1><p>Hendon Methodist Church&amp;comma; The Burroughs&amp;comma; Hendon&amp;comma; London NW4 4EH On site parking available for 6 - 8 cars if parked strategically&amp;period; Car Park and Street Parking located on Egerton Gardens&amp;period;</p><img src="http://acmartialarts.co.uk/wp-content/uploads/2012/10/Broadfields-Primary-School-141.jpg" /></article>
+<article style=""><h1>Edgware Martial Arts Academy</h1><p>At Hendon Martial Arts Academy&amp;comma; we offer an Introductory Programme to Prospective Students who are interested in joining the School&amp;period;</p><img src="http://acmartialarts.co.uk/wp-content/uploads/2012/10/cropped-CKD-Official-Logo.jpg" /></article>
