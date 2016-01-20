@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Edgware Martial Arts Academy]]></title>
         <description><![CDATA[Edgware Martial Arts Academy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/edgware-martial-arts-academy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 10:50:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jan 2016 10:51:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/edgware-martial-arts-academy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Edgware Martial Arts Academy]]></title>
+            <description><![CDATA[<article><h1>Edgware Martial Arts Academy</h1><p>Q: What style of martial art will I learn? A: You will learn Choi Kwang-Do (CKD), a revolutionary martial art and exercise programme developed by Grandmaster Kwang Jo Choi. The martial art is founded on the principle that self defence techniques should generate maximum force, be practical and easy to learn, enhance your health as you practice, as well as develop physical and mental conditioning.</p></article>]]></description>
+            <link>http://acmartialarts.co.uk/questions-and-answers/</link>
+            <guid isPermaLink="false">6b32a2da-3ec3-4aae-a3a8-468ff2a36bb3</guid>
+            <pubDate>Wed, 20 Jan 2016 10:50:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Edgware Martial Arts Academy]]></title>
             <description><![CDATA[<article><h1>Edgware Martial Arts Academy</h1><p>Ealing Choi Kwang Do is run by Master Jason Wright, 6th Degree Black Belt Master Instructor of Choi Kwang Do Martial Art International. For more information about classes in Ealing, visit: http://www.themartialartforlife.com/ or http://themartialartforlife.blogspot.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f2a7907fdddcdca441b2fe6294171d232b15963.jpg"></article>]]></description>
