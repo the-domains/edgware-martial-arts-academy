@@ -1,43 +1,36 @@
 ---
 author: []
 related:
-  - score: 0.5870383978
-    description: 'The destination for news, blogs and original content offering coverage of US politics, entertainment, style, world news, technology and comedy - Huffington Post'
-    title: Breaking News and Opinion on The Huffington Post
-    url: 'http://www.huffingtonpost.com/'
-    thumbnail_height: 350
-    thumbnail_url: 'http://i.huffpost.com/gen/3904318/images/r-TRUMP-PALIN-huge.jpg'
-    thumbnail_width: 900
-  - score: 0.5545557141
-    description: ※この場は　ももいろクローバーZの認知度を高めたいと　個人的に思い　YouTube内で制作してるチャンネルであることをご了承下さい ※アップした動画は突然削除することもありますのでご了承下さい
-    title: いけふくろう
-    url: 'https://www.youtube.com/user/hirogutti'
-    thumbnail_height: 900
-    thumbnail_url: 'https://yt3.ggpht.com/-JUAh4VIw3yw/AAAAAAAAAAI/AAAAAAAAAAA/Dp48nyc1uOg/s900-c-k-no/photo.jpg'
-    thumbnail_width: 900
+  - score: 0.5160792470000001
+    description: "Students at the Open University are going to have their progress monitored by software to spot if they need any extra support. The scheme, developed by the OU, has been designed to observe students' paths through courses and engagement with online learning modules."
+    title: "OU students' progress to be monitored by software - BBC News"
+    url: 'http://www.bbc.co.uk/news/technology-33675471'
+    thumbnail_height: 576
+    thumbnail_url: 'http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1D9E/production/_84528570_openuniversity-4.jpg'
+    thumbnail_width: 1024
 publisher:
   name: Acmartialarts
   domain: acmartialarts.co.uk
   url: 'http://acmartialarts.co.uk'
   favicon: null
 keywords:
-  - themartialartforlife
   - kwang
-  - ealing
   - choi
-  - master
-  - http
-  - blogspot
-  - 6th
   - martial
+  - art
   - instructor
-description: 'Ealing Choi Kwang Do is run by Master Jason Wright, 6th Degree Black Belt Master Instructor of Choi Kwang Do Martial Art International. For more information about classes in Ealing, visit: http://www.themartialartforlife.com/ or http://themartialartforlife.blogspot.com'
+  - student
+  - belt
+  - grandmaster
+  - experience
+  - hendon
+description: 'Q: What style of martial art will I learn? A: You will learn Choi Kwang-Do (CKD), a revolutionary martial art and exercise programme developed by Grandmaster Kwang Jo Choi. The martial art is founded on the principle that self defence techniques should generate maximum force, be practical and easy to learn, enhance your health as you practice, as well as develop physical and mental conditioning.'
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://acmartialarts.co.uk/ealingckd/'
+isBasedOnUrl: 'http://acmartialarts.co.uk/questions-and-answers/'
 title: Edgware Martial Arts Academy
-datePublished: '2016-01-20T10:50:44.148Z'
-dateModified: '2016-01-20T10:49:04.139Z'
+datePublished: '2016-01-20T10:50:44.172Z'
+dateModified: '2016-01-20T10:49:02.739Z'
 inFeed: true
 hasPage: false
 inNav: false
@@ -49,4 +42,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Edgware Martial Arts Academy</h1><p>Ealing Choi Kwang Do is run by Master Jason Wright&amp;comma; 6th Degree Black Belt Master Instructor of Choi Kwang Do Martial Art International&amp;period; For more information about classes in Ealing&amp;comma; visit&amp;colon; http&amp;colon;&amp;sol;&amp;sol;www&amp;period;themartialartforlife&amp;period;com&amp;sol; or http&amp;colon;&amp;sol;&amp;sol;themartialartforlife&amp;period;blogspot&amp;period;com</p><img src="http://acmartialarts.co.uk/wp-content/uploads/2012/10/cropped-CKD-Official-Logo.jpg" /></article>
+<article style=""><h1>Edgware Martial Arts Academy</h1><p>Q&amp;colon; What style of martial art will I learn&amp;quest; A&amp;colon; You will learn Choi Kwang-Do &amp;lpar;CKD&amp;rpar;&amp;comma; a revolutionary martial art and exercise programme developed by Grandmaster Kwang Jo Choi&amp;period; The martial art is founded on the principle that self defence techniques should generate maximum force&amp;comma; be practical and easy to learn&amp;comma; enhance your health as you practice&amp;comma; as well as develop physical and mental conditioning&amp;period;</p></article>
