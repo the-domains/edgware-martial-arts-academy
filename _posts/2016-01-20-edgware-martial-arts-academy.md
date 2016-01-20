@@ -7,23 +7,23 @@ publisher:
   url: 'http://acmartialarts.co.uk'
   favicon: null
 keywords:
-  - ckd
-  - choi
   - kwang
-  - development
-  - defence
-  - health
-  - trains
-  - muscle
-  - art
-  - body
-description: 'Choi Kwang-Do (CKD) is a revolutionary Martial Art designed scientifically and developed to promote Good Health & Fitness, Personal Development and Practical Self Defence. Main Areas of Focus: Optimum Health The techniques are designed to work in harmony with the human body, eliminating unnecessary stress and hyper-extension.'
+  - tae
+  - instructors
+  - martial
+  - choi
+  - kwon-do
+  - arts
+  - grandmaster
+  - itf
+  - kwang-do
+description: 'Grandmaster Kwang Jo Choi President and Founder of Choi Kwang-Do Martial Art International Kwang Jo Choi, 9th Degree Black Belt Grandmaster, was born on March 2, 1942, in Tae Gu City, Korea, which was under Japanese control at the time.'
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://acmartialarts.co.uk/choi-kwang-do/'
+isBasedOnUrl: 'http://acmartialarts.co.uk/our-founder/'
 title: Edgware Martial Arts Academy
-datePublished: '2016-01-20T10:50:44.852Z'
-dateModified: '2016-01-20T10:49:26.066Z'
+datePublished: '2016-01-20T10:50:45.012Z'
+dateModified: '2016-01-20T10:49:24.968Z'
 inFeed: true
 hasPage: false
 inNav: false
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Edgware Martial Arts Academy</h1><p>Choi Kwang-Do &amp;lpar;CKD&amp;rpar; is a revolutionary Martial Art designed scientifically and developed to promote Good Health &amp; Fitness&amp;comma; Personal Development and Practical Self Defence&amp;period; Main Areas of Focus&amp;colon; Optimum Health The techniques are designed to work in harmony with the human body&amp;comma; eliminating unnecessary stress and hyper-extension&amp;period;</p><img src="http://acmartialarts.co.uk/wp-content/uploads/2012/10/CKD-Official-Logo1-1000x288.jpg" /></article>
+<article style=""><h1>Edgware Martial Arts Academy</h1><p>Grandmaster Kwang Jo Choi President and Founder of Choi Kwang-Do Martial Art International Kwang Jo Choi&amp;comma; 9th Degree Black Belt Grandmaster&amp;comma; was born on March 2&amp;comma; 1942&amp;comma; in Tae Gu City&amp;comma; Korea&amp;comma; which was under Japanese control at the time&amp;period;</p><img src="http://acmartialarts.co.uk/wp-content/uploads/2012/10/Grand_Master_Kwang_Jo_Choi_1.jpeg" /></article>
