@@ -1,0 +1,28 @@
+name: Edgware Martial Arts Academy
+favicon: null
+layout_spectrum: 0.41646964848041534
+typography_spectrum: 0.07641105772927403
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.18715567258186638
+  lightness: 0.7958645620383322
+  saturation: 0.6678583277389407
+  rhythmicContrast: 0.784276481019333
+purpose: []
