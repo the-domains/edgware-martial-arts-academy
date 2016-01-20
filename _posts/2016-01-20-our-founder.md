@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Grandmaster Kwang Jo Choi Biography
-datePublished: '2016-01-20T10:30:37.770Z'
+datePublished: '2016-01-20T10:30:37.780Z'
 dateModified: '2016-01-20T10:29:36.207Z'
 title: Our Founder
 author: []
