@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Edgware Martial Arts Academy]]></title>
+        <description><![CDATA[Edgware Martial Arts Academy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Jan 2016 10:37:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><p>Welcome to Edgware Martial Arts Academy</p></article>]]></description>
+            <link>undefinedwelcome/index.html</link>
+            <guid isPermaLink="false">f9deaa7e-3e42-4432-b37e-ad03617f1853</guid>
+            <pubDate>Wed, 20 Jan 2016 10:37:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
